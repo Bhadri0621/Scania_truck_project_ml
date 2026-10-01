@@ -3,7 +3,7 @@
 > A classical machine-learning system for detecting APS-related failures in Scania trucks under severe class imbalance and asymmetric misclassification costs.
 
 ---
-## Live Demo -> 
+## Live Demo -> https://scaniatruck-aps-detection-app.streamlit.app/
 ## 🚛 Project Overview
 
 **ScaniaGuard** predicts whether a Scania truck belongs to the **APS-failure class** using anonymized operational data.
