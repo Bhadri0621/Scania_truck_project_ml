@@ -1,9 +1,9 @@
-# ScaniaGuard — Cost-Sensitive APS Failure Detection
+# 🚛 ScaniaGuard — Cost-Sensitive APS Failure Detection
 
 > A classical machine-learning system for detecting APS-related failures in Scania trucks under severe class imbalance and asymmetric misclassification costs.
 
 ---
-
+## Live Demo -> 
 ## 🚛 Project Overview
 
 **ScaniaGuard** predicts whether a Scania truck belongs to the **APS-failure class** using anonymized operational data.
